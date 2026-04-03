@@ -6,6 +6,7 @@ This project is based on the following project by GreatScottLab:
 https://www.instructables.com/DIY-Miniature-Solar-Tracker
 
 and the 3D print files by fbuenonet:
+
 https://www.thingiverse.com/thing:708819
 
 My humble contribution:
