@@ -1,6 +1,8 @@
 # SolarTracker
 Build a solar tracker with 2 DOF that follows the sun, based on Arduino Uno.
 
+You can find step-by-step instructions in the file **solar tracker instructions.pdf**.
+
 This project is based on the following project by GreatScottLab:
 
 https://www.instructables.com/DIY-Miniature-Solar-Tracker
